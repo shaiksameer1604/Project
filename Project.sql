@@ -3,7 +3,7 @@ conn = mysql.connector.connect(
     host="localhost",
     database="Inventory_Management",
     user ="root",
-    password="Hari@123")
+    password="Sameer@2002Rgm")
 cor = conn.cursor() 
 
 -- 1)Create a database called “Inventory_Management” with different tables like “manufacture”, “goods”, “purchase”, “sale” etc.
